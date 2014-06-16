@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/aboutVIEW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Blalalalalalalalalalalalala---------------This is a lovely app that is designed for my sweetheart AL. Changes happen in daily life. Some are good and some not. However, when I am holding your hand, I feel we can take all the changes, and all of them cannot change our love. I love you. 2014-04-14 " />
+
+</LinearLayout>

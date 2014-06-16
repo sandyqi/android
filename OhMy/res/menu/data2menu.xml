@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:title="AboutData2"
+        android:id="@+id/data2menumenu"
+        android:numericShortcut="1"/>
+
+        <item 
+        android:title="Preference"
+        android:id="@+id/data2menupreference"
+       />
+          <item 
+        android:title="Exit"
+        android:id="@+id/data2menuexit"
+       />
+</menu>
